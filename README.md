@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldobettega
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and Java
 - Studying at University of PADOVA
 
 
