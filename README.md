@@ -28,9 +28,3 @@ I'm an undergraduate student at the University of Padua. My background is rooted
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-## 📊 My GitHub Stats
-
-![Aldo's GitHub Streak](https://streak-stats.demolab.com/?user=aldobettega&theme=radical&hide_border=true)
-
-![Aldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldobettega&layout=compact&theme=radical&hide_border=true)
