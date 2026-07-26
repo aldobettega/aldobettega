@@ -1,11 +1,32 @@
-- Studying at University of PADOVA
+# Hi there, I'm Aldo! 👋
 
+I'm a passionate learner of all things Tech, exploring the entire stack from **Software Engineering** to **Networking** and **Cybersecurity**.
 
+## 🚀 About Me
+* 🌱 I’m constantly learning new concepts in CyberSec, Linux, and Network architectures.
+* 📖 Read my notes, projects, and tech journey on my **[Official Portfolio](https://aldobettega.github.io)**.
+* 📫 How to reach me: aldo.bettega04@gmail.com
 
- 
- 📫 aldo.bettega04@gmail.com
+## 🛠️ Core Tech Stack
 
-<!---
-aldobettega/aldobettega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frameworks**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Infrastructure & DevOps**  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 📊 My GitHub Stats
+![Aldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldobettega&show_icons=true&theme=radical)
+![Aldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldobettega&layout=compact&theme=radical)
