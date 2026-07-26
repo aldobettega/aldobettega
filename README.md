@@ -1,9 +1,10 @@
 # Hi there, I'm Aldo! 👋
 
-I'm a passionate learner of all things Tech, exploring the entire stack from **Software Engineering** to **Networking** and **Cybersecurity**.
+I'm an undergraduate student at the University of Padua. My background is rooted in **Web Development** and **Software Engineering** projects, and I'm currently expanding my expertise by diving deep into **Networking** and **Cybersecurity**.
 
 ## 🚀 About Me
-* 🌱 I’m constantly learning new concepts in CyberSec, Linux, and Network architectures.
+* 🎓 I’m currently pursuing my BSc degree at Unipd.
+* 🌱 My current learning focus is on CyberSec and Network architectures.
 * 📖 Read my notes, projects, and tech journey on my **[Official Portfolio](https://aldobettega.github.io)**.
 * 📫 How to reach me: aldo.bettega04@gmail.com
 
@@ -19,6 +20,7 @@ I'm a passionate learner of all things Tech, exploring the entire stack from **S
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
