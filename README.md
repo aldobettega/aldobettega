@@ -30,5 +30,7 @@ I'm an undergraduate student at the University of Padua. My background is rooted
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 📊 My GitHub Stats
-![Aldo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldobettega&show_icons=true&theme=radical)
-![Aldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldobettega&layout=compact&theme=radical)
+
+![Aldo's GitHub Streak](https://streak-stats.demolab.com/?user=aldobettega&theme=radical&hide_border=true)
+
+![Aldo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldobettega&layout=compact&theme=radical&hide_border=true)
