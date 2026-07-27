@@ -34,3 +34,4 @@ I'm an undergraduate student at the University of Padua. My background is rooted
 **Documentation**  
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=markdown&logoColor=white)
+![Typst](https://img.shields.io/badge/Typst-239DAD?style=for-the-badge&logo=typst&logoColor=white)
