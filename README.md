@@ -14,10 +14,12 @@ I'm an undergraduate student at the University of Padua. My background is rooted
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 
 **Frameworks**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff)
 
 **Databases**
 
@@ -28,3 +30,7 @@ I'm an undergraduate student at the University of Padua. My background is rooted
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Documentation**
+![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)
+![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)
